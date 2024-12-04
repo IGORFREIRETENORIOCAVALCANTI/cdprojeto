@@ -1,0 +1,8 @@
+pytest
+ipykernel
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+ucimlrepo
